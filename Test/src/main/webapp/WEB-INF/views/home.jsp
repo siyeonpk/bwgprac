@@ -16,7 +16,7 @@
 <!-- 
 <P>  The time on the server is ${serverTime}. </P>
  -->
-<p> 해당 사용자의 아이디는 [${userId }]이며, 사용자명은 [${userName }]입니다.</p>\
+<p> 해당 사용자의 아이디는 [${userId }]이며, 사용자명은 [${userName }]입니다.</p>
 
 <p>??</p>
 
